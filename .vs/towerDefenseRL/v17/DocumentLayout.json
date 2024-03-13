@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\markvarga21\\towerDefenseRL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4728B3D0-D6C6-9995-D8AC-B1BA73119689}|Assembly-CSharp.csproj|c:\\users\\markvarga21\\towerdefenserl\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4728B3D0-D6C6-9995-D8AC-B1BA73119689}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4728B3D0-D6C6-9995-D8AC-B1BA73119689}|Assembly-CSharp.csproj|c:\\users\\markvarga21\\towerdefenserl\\assets\\scripts\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4728B3D0-D6C6-9995-D8AC-B1BA73119689}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4728B3D0-D6C6-9995-D8AC-B1BA73119689}|Assembly-CSharp.csproj|C:\\Users\\markvarga21\\towerDefenseRL\\assets\\scripts\\turretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4728B3D0-D6C6-9995-D8AC-B1BA73119689}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\turretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4728B3D0-D6C6-9995-D8AC-B1BA73119689}|Assembly-CSharp.csproj|C:\\Users\\markvarga21\\towerDefenseRL\\assets\\scripts\\bulletdestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4728B3D0-D6C6-9995-D8AC-B1BA73119689}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletdestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyMover.cs",
+              "DocumentMoniker": "C:\\Users\\markvarga21\\towerDefenseRL\\Assets\\Scripts\\EnemyMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMover.cs",
+              "ToolTip": "C:\\Users\\markvarga21\\towerDefenseRL\\Assets\\Scripts\\EnemyMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyMover.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:52:59.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\markvarga21\\towerDefenseRL\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\markvarga21\\towerDefenseRL\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:26:57.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulletDestroyer.cs",
+              "DocumentMoniker": "C:\\Users\\markvarga21\\towerDefenseRL\\Assets\\Scripts\\BulletDestroyer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletDestroyer.cs",
+              "ToolTip": "C:\\Users\\markvarga21\\towerDefenseRL\\Assets\\Scripts\\BulletDestroyer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletDestroyer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:21:50.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurretController.cs",
+              "DocumentMoniker": "C:\\Users\\markvarga21\\towerDefenseRL\\Assets\\Scripts\\TurretController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TurretController.cs",
+              "ToolTip": "C:\\Users\\markvarga21\\towerDefenseRL\\Assets\\Scripts\\TurretController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TurretController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:06:22.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
