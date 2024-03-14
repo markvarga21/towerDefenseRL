@@ -20,7 +20,7 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField]
     private GameObject enemyPrefab;
 
-    private float spawnInterval = 7f;
+    private float spawnInterval = 5f;
     private float nextTimeToSpawn = 0f;
 
     private void Setup()
@@ -61,11 +61,6 @@ public class EnemySpawner : MonoBehaviour
     private void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.tag == "Bullet")
-        {
-            Destroy(this.gameObject);
-        }
-
-        if (collision.gameObject.tag == "Player")
         {
             Destroy(this.gameObject);
         }
